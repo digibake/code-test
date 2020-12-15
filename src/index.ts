@@ -1,12 +1,16 @@
 import chalk from 'chalk'
 
+function output(){
+  console.log("hello");
+}
+
 //-----------------------------------------------------------------
 /**
  * Main test function for code tool
  */
 export async function main() {
 
-  console.log("hello")
+  output();
 
 }
 
