@@ -1,0 +1,15 @@
+typings/
+node_modules/
+input/
+exports/
+**/*.xml
+config.ts
+build/
+aws_config.json
+service_account.json
+PriceData.ts
+excel
+.firebaserc
+.DS_Store
+state.json
+deprecated/
